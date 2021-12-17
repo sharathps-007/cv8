@@ -1,0 +1,88 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 100%;
+  }
+  .body4{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 100%;
+  }
+  .pic{
+    width: 12.5rem;
+  }
+  h1{
+    font-size: 5rem;
+    font-family: 'Italianno', cursive;
+    color: #66BFBF;
+    line-height: 2rem;
+  }
+  h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    color: #3E8E7E;
+    margin-top: 0.063rem;
+    font-weight: normal;
+  }
+  h3{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+  }
+  p{
+  font-family: "Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;}
+  hr{
+    height: 0;
+    border-style: dotted;
+    border-width: 0.625rem;
+    border-bottom: 0;
+    border-color: #e0ebe8;
+    margin: 4.375rem 44% 4.375rem 44%;
+}
+.top{
+  width: 70%;
+  margin-left: 15%;
+  line-height: 2rem;
+}
+.middle1{
+  width: 50%;
+  margin-left: 25%;
+}
+.middle2{
+  width: 50%;
+  margin-left: 25%;
+}
+.bottom{
+  width: 50%;
+  margin-left: 25%;
+  line-height: 2rem;
+}
+.text{
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    padding: 0.05rem 0.05rem 0.05rem 0.05rem;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+  }
+  .btn{
+    font-size: 1.2em;
+      text-align: center;
+      display: inline-block;
+      position: relative;
+      bottom: 1.25rem;
+      background: #45b29a;
+      padding: 0.3rem 1rem 0.3rem 1rem;
+      color: #1b7f69;
+      text-decoration: none;
+      margin-top: 6rem;
+      margin-bottom: 4rem;
+      margin-left: 43.75rem;
+      border-radius: 0.188rem;
+      font-weight: 400;
+      border: 0;
+      font-family: 'Montserrat', sans-serif;
+      text-transform: uppercase;
+  }
+  .bottom2{
+    width: 10%;
+  }
